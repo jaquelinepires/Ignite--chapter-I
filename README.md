@@ -20,13 +20,9 @@ Nesse desafio o principal objetivo é a concepção de uma pequena aplicação d
 
 <br>
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
-<br>
 <img src="https://img.shields.io/badge/-TypeScript-4682B4?logo=typescript&logoColor=white&style=flat-square&logocolo" />
-<br>
 <img src="https://img.shields.io/badge/-JavaScript-orange?logo=javascript&logoColor=white&style=flat-square&logocolo" />
-<br>
 <img src="https://img.shields.io/badge/-Scss-FF00FF?logo=sass&logoColor=white&style=flat-square&logocolo" />
-<br>
 <img src="https://img.shields.io/badge/-Babel-808080?logo=babel&logoColor=yellow&style=flat-square&logoColor=yellow" />
 
 ---
